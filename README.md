@@ -19,7 +19,7 @@ Install zbomb on ISH shell
 
 ```bash
   apk update && apk upgrade
-  apk add git && apk add python 3
+  apk add git && apk add python3
   git clone https://github.com/itzzEIias/zbomb
   cd zbomb
   python3 zbomb.py
